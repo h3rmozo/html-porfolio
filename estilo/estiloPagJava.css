@@ -1,0 +1,22 @@
+.testando{
+    border: 1px solid red;
+}
+
+.verde{color:green}.azul{color:blue}.rosa{color:hotpink}.roxo{color:purple}
+
+.sborda{
+    background-color: blue;
+}
+
+.borda{
+    background-color: red;
+}
+
+
+
+.quadrado{
+    width: 150px;
+    height: 150px;
+    font-size: 30px;
+}
+
